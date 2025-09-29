@@ -18,7 +18,7 @@ prometheus-client = "0.24.0"
 axum-client-ip = {git = "https://github.com/imbolc/axum-client-ip.git", rev = "6d970edce4f7f0d1782e328fe688e021c42f1f3e"}
 bollard = "0.19.2"
 futures = "0.3.31"
-thiserror = "2.0.16"
+thiserror = "2.0.17"
 
 [dependencies.tokio]
 version = "1.47.1"
