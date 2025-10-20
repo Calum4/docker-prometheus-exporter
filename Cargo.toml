@@ -21,7 +21,7 @@ futures = "0.3.31"
 thiserror = "2.0.16"
 
 [dependencies.tokio]
-version = "1.47.1"
+version = "1.48.0"
 features = ["rt", "macros", "rt-multi-thread", "signal", "sync"]
 
 [dependencies.tracing-subscriber]
