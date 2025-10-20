@@ -37,7 +37,7 @@ version = "0.8.4"
 features = ["macros"]
 
 [dependencies.clap]
-version = "4.5.46"
+version = "4.5.50"
 features = ["derive", "env", "string"]
 
 [dev-dependencies]
