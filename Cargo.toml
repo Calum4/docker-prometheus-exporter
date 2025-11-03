@@ -16,7 +16,7 @@ tracing = "0.1.41"
 prometheus-client = "0.24.0"
 # Awaiting next release after v1.1.3
 axum-client-ip = {git = "https://github.com/imbolc/axum-client-ip.git", rev = "6d970edce4f7f0d1782e328fe688e021c42f1f3e"}
-bollard = "0.19.2"
+bollard = "0.19.4"
 futures = "0.3.31"
 thiserror = "2.0.16"
 
